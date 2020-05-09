@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tench2016/mcmc/vVerlet_LJ.cpp
+cstdio
+-
+cstdlib
+-
+cmath
+-
+iostream
+-
+fstream
+-
+random
+-
+
